@@ -1,10 +1,10 @@
 @import "tailwindcss";
 
 :root {
-  /* Paleta neutra (golden-source) — instâncias sobrescrevem a cor */
-  --brand: #334155;
-  --brand-soft: #e2e8f0;
-  --accent: #1ec2df;
+  /* Marca da Benevix (a mesma do Portal Benevix, site benevix.com.br) */
+  --brand: #2b57a5;
+  --brand-soft: #e6eef9;
+  --accent: #e99b48;
 }
 
 html,
